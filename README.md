@@ -12,6 +12,7 @@ This is a ready to go notification module which provide email sending service as
 
 ## Pre-requisites
 - Docker [1.2.x](https://docs.docker.com/#installation-guides) installed
+- Fig [0.5.x](http://www.fig.sh/) installed
 
 ## Usage
 
