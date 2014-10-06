@@ -16,7 +16,7 @@ This is a ready to go notification module which provide email sending service as
 ## Usage
 
 ```bash
-docker run --rm -d -p 8080:8080 8090:8090 -v ~/jsonsdk/notification:/data jsonsdk/one-notification:latest
+docker run --rm -it -p 8080:8080 8090:8090 -v ~/jsonsdk/notification:/data jsonsdk/one-notification:latest
 ```
 
 ## Development
